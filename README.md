@@ -64,12 +64,13 @@
 ## 📂 Featured Projects  
 
 **🎬 Anime Recommendation App** – React Native, Express.js, SQLite, TypeScript  
-- Cross-platform mobile/web app with **swipe-based interface** and **1,000+ curated anime recommendations**.  
+- Cross-platform mobile/web app with a **swipe-based interface** and **1,000+ curated anime recommendations**.  
 - Personalized feed using AniList GraphQL + YouTube APIs; optimized trailers with **50% faster load times**.  
 
 **📍 Pokémon Vending Machine Finder** – Python, MySQL, Leaflet.js, Firebase, Google Cloud  
 - Full-stack app mapping **1,500+ Pokémon vending machines in the U.S.**  
 - REST API with geospatial search + Docker deployment to Google Cloud Run & Firebase.  
+
 
 ---
 
@@ -79,3 +80,26 @@
 💻 [GitHub](https://github.com/ethanyimm)  
 
 ---
+
+## 🎥 Movies I Love  
+- *Fight Club*  
+- *Spider-Man: Across the Spider-Verse*  
+- *The Batman*  
+
+## 🍿 Anime Top 5  
+- *Code Geass*  
+- *Naruto*  
+- *Chainsaw Man*  
+- *Attack on Titan*  
+- *The Fragrant Flower Blooms With Dignity*  
+
+## 🎮 Gaming  
+- Valorant  
+- Minecraft  
+- Roblox  
+
+## 🏋️ Fitness  
+- Bench Press: **315 lbs**  
+- Squat: **405 lbs**  
+- Deadlift: **405 lbs**  
+
