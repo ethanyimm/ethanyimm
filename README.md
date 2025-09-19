@@ -27,7 +27,8 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust) 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r) 
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala) 
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby)  
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift)
 
 **Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) 
